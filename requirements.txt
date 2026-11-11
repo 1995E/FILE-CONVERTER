@@ -2,3 +2,4 @@
 pdf2docx
 os
 tempfile
+Converter
