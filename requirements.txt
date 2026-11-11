@@ -1,4 +1,4 @@
 ﻿streamlit
 pdf2docx
-Python-os
+os
 tempfile
